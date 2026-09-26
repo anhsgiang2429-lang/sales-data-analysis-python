@@ -9,26 +9,20 @@ Dự án cá nhân thuộc nội dung **5.5 - Phân tích dữ liệu cơ bản 
 
 ## 🎯 Mục tiêu dự án
 
-Dự án xây dựng một quy trình phân tích dữ liệu bán hàng hoàn chỉnh: đọc dữ liệu CSV, làm sạch dữ liệu, tính các chỉ số thống kê, phân tích theo nhiều chiều và trực quan hóa kết quả bằng biểu đồ.
+Xây dựng quy trình phân tích dữ liệu bán hàng: đọc CSV, làm sạch, tính thống kê, phân tích theo nhiều chiều và trực quan hóa kết quả.
 
 ## 🔎 Nội dung phân tích
 
 - Thống kê tổng doanh thu, tổng số lượng và doanh thu trung bình mỗi đơn.
-- Phân tích doanh thu theo **tháng**.
-- Phân tích doanh thu và số lượng theo **sản phẩm**.
-- Phân tích doanh thu và số lượng theo **danh mục**.
-- Phân tích doanh thu và số lượng theo **khu vực**.
-- Phân tích doanh thu và số lượng theo **nhân viên**.
-- Tự động xuất biểu đồ vào thư mục `images/`.
+- Doanh thu theo **tháng**.
+- Doanh thu và số lượng theo **sản phẩm**.
+- Doanh thu và số lượng theo **danh mục**.
+- Doanh thu và số lượng theo **khu vực**.
+- Doanh thu và số lượng theo **nhân viên**.
 
-## 🛠️ Công nghệ sử dụng
+## 🛠️ Công nghệ
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Visual Studio Code
-- GitHub
+Python · NumPy · Pandas · Matplotlib · VS Code · GitHub
 
 ## 📁 Cấu trúc dự án
 
@@ -38,46 +32,51 @@ sales-data-analysis-python/
 ├── sales_data.csv
 ├── README.md
 └── images/
-    ├── doanh_thu_theo_thang.png
-    ├── top_san_pham_doanh_thu.png
-    ├── doanh_thu_theo_danh_muc.png
-    ├── doanh_thu_theo_khu_vuc.png
-    └── doanh_thu_theo_nhan_vien.png
+    ├── doanh_thu_theo_thang.svg
+    ├── top_san_pham_doanh_thu.svg
+    ├── doanh_thu_theo_danh_muc.svg
+    ├── doanh_thu_theo_khu_vuc.svg
+    └── doanh_thu_theo_nhan_vien.svg
 ```
 
-> Thư mục `images/` được chương trình tự động tạo khi chạy `sales_analysis.py`.
-
-## ▶️ Cách chạy chương trình
-
-1. Tải hoặc clone repository về máy.
-2. Mở thư mục dự án bằng VS Code.
-3. Cài các thư viện cần thiết:
+## ▶️ Cách chạy
 
 ```bash
 pip install numpy pandas matplotlib
-```
-
-4. Chạy chương trình:
-
-```bash
 python sales_analysis.py
 ```
 
-5. Xem kết quả trên Terminal và các biểu đồ được lưu trong thư mục `images/`.
+Khi chạy, chương trình in kết quả ra Terminal và tự động tạo các biểu đồ PNG trong thư mục `images/`.
 
-## 📈 Kết quả đầu ra
+## 📈 Kết quả trực quan
 
-Chương trình hiển thị 6 nhóm kết quả chính:
+### 1. Doanh thu theo tháng
+![Doanh thu theo tháng](images/doanh_thu_theo_thang.svg)
 
-1. Thống kê tổng quan.
-2. Doanh thu theo tháng.
-3. Phân tích theo sản phẩm.
-4. Phân tích theo danh mục.
-5. Phân tích theo khu vực.
-6. Phân tích theo nhân viên.
+### 2. Top sản phẩm theo doanh thu
+![Top sản phẩm theo doanh thu](images/top_san_pham_doanh_thu.svg)
 
-Các biểu đồ giúp so sánh trực quan doanh thu giữa các nhóm và hỗ trợ rút ra nhận xét từ dữ liệu.
+### 3. Doanh thu theo danh mục
+![Doanh thu theo danh mục](images/doanh_thu_theo_danh_muc.svg)
+
+### 4. Doanh thu theo khu vực
+![Doanh thu theo khu vực](images/doanh_thu_theo_khu_vuc.svg)
+
+### 5. Doanh thu theo nhân viên
+![Doanh thu theo nhân viên](images/doanh_thu_theo_nhan_vien.svg)
+
+## 📌 Một số kết quả nổi bật
+
+- Tổng doanh thu: **3.258.823.000 VNĐ**.
+- Tổng số lượng bán: **703 sản phẩm**.
+- Tháng có doanh thu cao nhất: **04/2026**.
+- Sản phẩm tạo doanh thu cao nhất: **Laptop**.
+- Danh mục tạo doanh thu cao nhất: **Điện tử**.
+- Khu vực tạo doanh thu cao nhất: **Miền Nam**.
+- Nhân viên tạo doanh thu cao nhất: **An**.
+
+> Dữ liệu trong dự án là dữ liệu mô phỏng phục vụ mục đích học tập.
 
 ## 📝 Ý nghĩa
 
-Dự án giúp thực hành các kỹ năng quan trọng của phân tích dữ liệu cơ bản như `DataFrame`, `groupby`, xử lý ngày tháng, thống kê mô tả và trực quan hóa dữ liệu. Đây cũng là nền tảng để phát triển thêm dashboard, phân tích lợi nhuận hoặc dự báo doanh thu trong tương lai.
+Dự án thực hành các kỹ năng `DataFrame`, `groupby`, xử lý ngày tháng, thống kê mô tả và trực quan hóa dữ liệu. Có thể phát triển tiếp thành dashboard, phân tích lợi nhuận hoặc dự báo doanh thu.
