@@ -1,0 +1,241 @@
+Mã đơn hàng,Ngày bán,Sản phẩm,Danh mục,Số lượng,Đơn giá,Doanh thu,Khu vực,Nhân viên
+DH0194,2026-01-02,Chuột,Phụ kiện,2,413000,826000,Miền Trung,An
+DH0080,2026-01-02,Bàn phím,Phụ kiện,1,762000,762000,Miền Nam,Chi
+DH0140,2026-01-03,Điện thoại,Điện tử,3,10997000,32991000,Hà Nội,An
+DH0183,2026-01-03,Màn hình,Điện tử,3,4107000,12321000,Hà Nội,An
+DH0189,2026-01-04,Ổ cứng SSD,Linh kiện,1,1656000,1656000,Miền Nam,Chi
+DH0067,2026-01-05,Điện thoại,Điện tử,5,10602000,53010000,Miền Nam,Dũng
+DH0141,2026-01-05,Bàn phím,Phụ kiện,3,808000,2424000,Miền Trung,Hà
+DH0034,2026-01-06,Chuột,Phụ kiện,1,423000,423000,Miền Bắc,Bình
+DH0178,2026-01-11,Điện thoại,Điện tử,4,10959000,43836000,Miền Nam,Hà
+DH0166,2026-01-11,Ổ cứng SSD,Linh kiện,1,1698000,1698000,Miền Bắc,Dũng
+DH0020,2026-01-11,Tai nghe,Phụ kiện,2,877000,1754000,Miền Trung,Bình
+DH0209,2026-01-15,Bàn phím,Phụ kiện,2,782000,1564000,Miền Trung,An
+DH0060,2026-01-15,Chuột,Phụ kiện,2,443000,886000,Hà Nội,Hà
+DH0013,2026-01-15,Tai nghe,Phụ kiện,1,818000,818000,Miền Trung,Chi
+DH0204,2026-01-15,Ổ cứng SSD,Linh kiện,5,1538000,7690000,Miền Nam,Hà
+DH0106,2026-01-17,Tai nghe,Phụ kiện,5,816000,4080000,Miền Nam,Bình
+DH0130,2026-01-17,Ổ cứng SSD,Linh kiện,2,1687000,3374000,Miền Bắc,Bình
+DH0007,2026-01-17,Chuột,Phụ kiện,2,391000,782000,Miền Trung,Chi
+DH0092,2026-01-18,Điện thoại,Điện tử,1,11002000,11002000,Miền Trung,Hà
+DH0146,2026-01-19,Bàn phím,Phụ kiện,3,813000,2439000,Hà Nội,Chi
+DH0023,2026-01-20,Ổ cứng SSD,Linh kiện,2,1603000,3206000,Hà Nội,Hà
+DH0072,2026-01-22,Điện thoại,Điện tử,2,11223000,22446000,Hà Nội,An
+DH0005,2026-01-22,Bàn phím,Phụ kiện,4,774000,3096000,Miền Nam,Chi
+DH0086,2026-01-23,Điện thoại,Điện tử,3,10805000,32415000,Miền Nam,Dũng
+DH0099,2026-01-24,Màn hình,Điện tử,2,4217000,8434000,Miền Trung,Dũng
+DH0134,2026-01-25,Tai nghe,Phụ kiện,3,872000,2616000,Miền Trung,An
+DH0030,2026-01-25,Webcam,Phụ kiện,4,1233000,4932000,Hà Nội,Dũng
+DH0177,2026-01-26,Chuột,Phụ kiện,4,407000,1628000,Miền Nam,Dũng
+DH0221,2026-01-26,Ổ cứng SSD,Linh kiện,2,1674000,3348000,Miền Trung,Chi
+DH0234,2026-01-26,Webcam,Phụ kiện,4,1303000,5212000,Hà Nội,Bình
+DH0085,2026-01-27,Màn hình,Điện tử,5,3972000,19860000,Miền Bắc,Bình
+DH0137,2026-01-28,Webcam,Phụ kiện,5,1208000,6040000,Miền Nam,Chi
+DH0157,2026-01-29,Điện thoại,Điện tử,2,10514000,21028000,Miền Bắc,Chi
+DH0135,2026-01-29,Chuột,Phụ kiện,5,430000,2150000,Miền Bắc,Dũng
+DH0154,2026-01-31,Tai nghe,Phụ kiện,3,804000,2412000,Hà Nội,Dũng
+DH0027,2026-02-01,Điện thoại,Điện tử,2,10923000,21846000,Miền Nam,Chi
+DH0233,2026-02-02,Ổ cứng SSD,Linh kiện,2,1536000,3072000,Miền Bắc,Bình
+DH0236,2026-02-03,Bàn phím,Phụ kiện,4,731000,2924000,Hà Nội,Chi
+DH0088,2026-02-04,Tai nghe,Phụ kiện,2,858000,1716000,Miền Trung,Bình
+DH0136,2026-02-05,Màn hình,Điện tử,5,4097000,20485000,Miền Nam,Hà
+DH0091,2026-02-05,Điện thoại,Điện tử,1,10538000,10538000,Miền Bắc,Chi
+DH0143,2026-02-06,Tai nghe,Phụ kiện,2,810000,1620000,Hà Nội,Chi
+DH0169,2026-02-08,Tai nghe,Phụ kiện,3,844000,2532000,Miền Bắc,Hà
+DH0161,2026-02-08,Ổ cứng SSD,Linh kiện,3,1589000,4767000,Miền Bắc,Chi
+DH0175,2026-02-09,Màn hình,Điện tử,1,3961000,3961000,Miền Nam,Dũng
+DH0132,2026-02-10,Webcam,Phụ kiện,1,1310000,1310000,Miền Bắc,Chi
+DH0053,2026-02-10,Webcam,Phụ kiện,1,1211000,1211000,Miền Nam,Hà
+DH0220,2026-02-13,Chuột,Phụ kiện,5,394000,1970000,Hà Nội,Chi
+DH0117,2026-02-13,Tai nghe,Phụ kiện,4,799000,3196000,Miền Trung,Bình
+DH0213,2026-02-15,Màn hình,Điện tử,1,4273000,4273000,Hà Nội,Dũng
+DH0113,2026-02-20,Bàn phím,Phụ kiện,5,795000,3975000,Miền Bắc,Bình
+DH0047,2026-02-20,Chuột,Phụ kiện,1,437000,437000,Hà Nội,Bình
+DH0083,2026-02-20,Ổ cứng SSD,Linh kiện,2,1713000,3426000,Miền Trung,Bình
+DH0024,2026-02-20,Laptop,Điện tử,4,18467000,73868000,Hà Nội,An
+DH0152,2026-02-21,Màn hình,Điện tử,5,4335000,21675000,Miền Bắc,Hà
+DH0128,2026-02-22,Webcam,Phụ kiện,1,1295000,1295000,Miền Nam,Bình
+DH0180,2026-02-22,Màn hình,Điện tử,4,4473000,17892000,Miền Nam,Bình
+DH0201,2026-02-22,Chuột,Phụ kiện,5,446000,2230000,Hà Nội,Hà
+DH0093,2026-02-23,Chuột,Phụ kiện,5,421000,2105000,Miền Trung,An
+DH0019,2026-02-24,Laptop,Điện tử,1,19768000,19768000,Miền Nam,Bình
+DH0126,2026-02-24,Màn hình,Điện tử,3,4147000,12441000,Miền Bắc,Dũng
+DH0145,2026-02-25,Laptop,Điện tử,4,18201000,72804000,Miền Bắc,An
+DH0229,2026-02-26,Điện thoại,Điện tử,5,10906000,54530000,Miền Bắc,An
+DH0107,2026-02-27,Laptop,Điện tử,5,18464000,92320000,Miền Nam,Bình
+DH0147,2026-02-27,Chuột,Phụ kiện,1,403000,403000,Miền Nam,Dũng
+DH0238,2026-02-28,Chuột,Phụ kiện,5,417000,2085000,Miền Nam,Bình
+DH0155,2026-02-28,Bàn phím,Phụ kiện,3,818000,2454000,Miền Trung,An
+DH0179,2026-02-28,Chuột,Phụ kiện,4,433000,1732000,Miền Trung,An
+DH0009,2026-03-01,Chuột,Phụ kiện,4,403000,1612000,Miền Bắc,Hà
+DH0061,2026-03-01,Điện thoại,Điện tử,2,10151000,20302000,Miền Trung,Dũng
+DH0050,2026-03-02,Chuột,Phụ kiện,3,447000,1341000,Hà Nội,Hà
+DH0073,2026-03-02,Laptop,Điện tử,1,18816000,18816000,Miền Nam,Hà
+DH0031,2026-03-02,Laptop,Điện tử,2,19425000,38850000,Miền Trung,Bình
+DH0103,2026-03-03,Chuột,Phụ kiện,2,421000,842000,Miền Bắc,Chi
+DH0006,2026-03-03,Điện thoại,Điện tử,2,10098000,20196000,Miền Nam,Chi
+DH0042,2026-03-05,Tai nghe,Phụ kiện,5,816000,4080000,Hà Nội,An
+DH0071,2026-03-06,Laptop,Điện tử,1,17403000,17403000,Miền Bắc,Hà
+DH0036,2026-03-06,Webcam,Phụ kiện,2,1217000,2434000,Hà Nội,An
+DH0058,2026-03-06,Webcam,Phụ kiện,4,1277000,5108000,Hà Nội,Bình
+DH0025,2026-03-07,Laptop,Điện tử,5,18478000,92390000,Miền Trung,Chi
+DH0048,2026-03-08,Laptop,Điện tử,1,19705000,19705000,Miền Trung,An
+DH0002,2026-03-09,Màn hình,Điện tử,2,4371000,8742000,Miền Trung,Hà
+DH0119,2026-03-10,Màn hình,Điện tử,3,3921000,11763000,Miền Bắc,Hà
+DH0021,2026-03-10,Bàn phím,Phụ kiện,4,810000,3240000,Miền Bắc,Chi
+DH0105,2026-03-12,Ổ cứng SSD,Linh kiện,3,1736000,5208000,Miền Bắc,Chi
+DH0186,2026-03-12,Ổ cứng SSD,Linh kiện,4,1564000,6256000,Hà Nội,Hà
+DH0063,2026-03-13,Ổ cứng SSD,Linh kiện,3,1576000,4728000,Miền Trung,An
+DH0116,2026-03-13,Ổ cứng SSD,Linh kiện,1,1547000,1547000,Miền Bắc,Dũng
+DH0095,2026-03-13,Webcam,Phụ kiện,3,1317000,3951000,Miền Bắc,Bình
+DH0096,2026-03-14,Bàn phím,Phụ kiện,4,803000,3212000,Miền Nam,Chi
+DH0057,2026-03-14,Ổ cứng SSD,Linh kiện,3,1601000,4803000,Hà Nội,Hà
+DH0075,2026-03-14,Bàn phím,Phụ kiện,1,781000,781000,Miền Nam,Bình
+DH0193,2026-03-14,Webcam,Phụ kiện,1,1231000,1231000,Miền Trung,Bình
+DH0055,2026-03-15,Tai nghe,Phụ kiện,3,856000,2568000,Hà Nội,An
+DH0168,2026-03-15,Laptop,Điện tử,3,17538000,52614000,Miền Trung,Hà
+DH0102,2026-03-16,Chuột,Phụ kiện,1,429000,429000,Miền Trung,Bình
+DH0062,2026-03-17,Màn hình,Điện tử,1,4072000,4072000,Miền Bắc,Bình
+DH0215,2026-03-17,Webcam,Phụ kiện,5,1191000,5955000,Miền Trung,Dũng
+DH0084,2026-03-17,Chuột,Phụ kiện,2,444000,888000,Hà Nội,Chi
+DH0046,2026-03-18,Điện thoại,Điện tử,1,10880000,10880000,Miền Nam,Chi
+DH0081,2026-03-18,Webcam,Phụ kiện,5,1183000,5915000,Hà Nội,Dũng
+DH0016,2026-03-18,Màn hình,Điện tử,3,4182000,12546000,Hà Nội,Dũng
+DH0064,2026-03-19,Bàn phím,Phụ kiện,3,795000,2385000,Miền Nam,Chi
+DH0076,2026-03-21,Chuột,Phụ kiện,4,428000,1712000,Miền Nam,Bình
+DH0111,2026-03-21,Tai nghe,Phụ kiện,4,901000,3604000,Hà Nội,Chi
+DH0125,2026-03-22,Laptop,Điện tử,2,19239000,38478000,Hà Nội,An
+DH0008,2026-03-23,Ổ cứng SSD,Linh kiện,2,1580000,3160000,Miền Bắc,Chi
+DH0037,2026-03-24,Màn hình,Điện tử,2,4184000,8368000,Miền Nam,Bình
+DH0197,2026-03-24,Webcam,Phụ kiện,1,1269000,1269000,Miền Bắc,Chi
+DH0011,2026-03-25,Ổ cứng SSD,Linh kiện,4,1634000,6536000,Miền Trung,Chi
+DH0205,2026-03-25,Laptop,Điện tử,1,19239000,19239000,Miền Trung,An
+DH0056,2026-03-25,Màn hình,Điện tử,3,4283000,12849000,Hà Nội,Chi
+DH0202,2026-03-26,Màn hình,Điện tử,2,4053000,8106000,Miền Nam,Bình
+DH0039,2026-03-26,Ổ cứng SSD,Linh kiện,1,1685000,1685000,Hà Nội,Dũng
+DH0187,2026-03-27,Ổ cứng SSD,Linh kiện,3,1640000,4920000,Miền Trung,Chi
+DH0087,2026-03-27,Tai nghe,Phụ kiện,5,854000,4270000,Hà Nội,Chi
+DH0121,2026-03-28,Laptop,Điện tử,1,18793000,18793000,Miền Bắc,Bình
+DH0068,2026-03-30,Bàn phím,Phụ kiện,2,758000,1516000,Miền Trung,Dũng
+DH0222,2026-03-30,Điện thoại,Điện tử,2,10593000,21186000,Miền Nam,Dũng
+DH0131,2026-03-31,Điện thoại,Điện tử,3,10840000,32520000,Miền Nam,Chi
+DH0014,2026-03-31,Chuột,Phụ kiện,3,402000,1206000,Hà Nội,Dũng
+DH0167,2026-04-02,Laptop,Điện tử,5,18805000,94025000,Hà Nội,An
+DH0174,2026-04-03,Chuột,Phụ kiện,5,405000,2025000,Miền Bắc,Chi
+DH0173,2026-04-04,Bàn phím,Phụ kiện,5,814000,4070000,Miền Bắc,Bình
+DH0237,2026-04-04,Tai nghe,Phụ kiện,3,896000,2688000,Miền Trung,Dũng
+DH0185,2026-04-04,Điện thoại,Điện tử,1,11123000,11123000,Miền Trung,Dũng
+DH0214,2026-04-05,Điện thoại,Điện tử,5,9939000,49695000,Miền Bắc,Chi
+DH0110,2026-04-06,Ổ cứng SSD,Linh kiện,3,1546000,4638000,Hà Nội,Chi
+DH0100,2026-04-06,Bàn phím,Phụ kiện,2,743000,1486000,Miền Trung,Dũng
+DH0078,2026-04-09,Laptop,Điện tử,1,19634000,19634000,Miền Trung,Hà
+DH0207,2026-04-09,Màn hình,Điện tử,1,4491000,4491000,Miền Nam,An
+DH0148,2026-04-09,Màn hình,Điện tử,5,4197000,20985000,Miền Bắc,Chi
+DH0127,2026-04-11,Chuột,Phụ kiện,4,420000,1680000,Miền Nam,Dũng
+DH0051,2026-04-12,Laptop,Điện tử,5,17640000,88200000,Miền Nam,Bình
+DH0038,2026-04-12,Điện thoại,Điện tử,5,10792000,53960000,Miền Trung,Dũng
+DH0033,2026-04-12,Màn hình,Điện tử,5,4071000,20355000,Hà Nội,Bình
+DH0049,2026-04-14,Laptop,Điện tử,4,17743000,70972000,Miền Bắc,An
+DH0170,2026-04-18,Tai nghe,Phụ kiện,5,815000,4075000,Miền Nam,An
+DH0026,2026-04-19,Chuột,Phụ kiện,3,443000,1329000,Miền Bắc,Hà
+DH0112,2026-04-19,Bàn phím,Phụ kiện,1,808000,808000,Hà Nội,Bình
+DH0124,2026-04-19,Màn hình,Điện tử,1,3955000,3955000,Hà Nội,Hà
+DH0160,2026-04-19,Tai nghe,Phụ kiện,2,850000,1700000,Miền Bắc,Chi
+DH0041,2026-04-20,Bàn phím,Phụ kiện,3,737000,2211000,Miền Bắc,An
+DH0165,2026-04-21,Tai nghe,Phụ kiện,3,854000,2562000,Hà Nội,Dũng
+DH0182,2026-04-21,Laptop,Điện tử,5,19595000,97975000,Miền Trung,Dũng
+DH0054,2026-04-24,Chuột,Phụ kiện,4,395000,1580000,Hà Nội,Dũng
+DH0032,2026-04-24,Ổ cứng SSD,Linh kiện,2,1686000,3372000,Miền Trung,Bình
+DH0210,2026-04-26,Tai nghe,Phụ kiện,4,791000,3164000,Miền Bắc,An
+DH0028,2026-04-26,Laptop,Điện tử,4,18619000,74476000,Miền Nam,Hà
+DH0224,2026-04-26,Ổ cứng SSD,Linh kiện,4,1731000,6924000,Miền Nam,Chi
+DH0199,2026-04-27,Chuột,Phụ kiện,2,440000,880000,Miền Trung,Bình
+DH0181,2026-04-29,Tai nghe,Phụ kiện,1,895000,895000,Miền Trung,An
+DH0104,2026-04-30,Điện thoại,Điện tử,1,10907000,10907000,Miền Nam,Dũng
+DH0043,2026-04-30,Tai nghe,Phụ kiện,4,822000,3288000,Hà Nội,An
+DH0206,2026-05-01,Webcam,Phụ kiện,4,1180000,4720000,Miền Trung,Hà
+DH0227,2026-05-01,Chuột,Phụ kiện,2,404000,808000,Miền Bắc,Dũng
+DH0045,2026-05-03,Màn hình,Điện tử,1,4370000,4370000,Hà Nội,Bình
+DH0114,2026-05-04,Điện thoại,Điện tử,2,10987000,21974000,Miền Trung,Dũng
+DH0190,2026-05-04,Màn hình,Điện tử,3,4083000,12249000,Hà Nội,Hà
+DH0219,2026-05-05,Màn hình,Điện tử,3,4208000,12624000,Miền Nam,An
+DH0230,2026-05-06,Chuột,Phụ kiện,4,413000,1652000,Hà Nội,An
+DH0211,2026-05-06,Chuột,Phụ kiện,1,430000,430000,Miền Bắc,Bình
+DH0142,2026-05-07,Ổ cứng SSD,Linh kiện,5,1718000,8590000,Miền Trung,Chi
+DH0082,2026-05-07,Điện thoại,Điện tử,5,11058000,55290000,Miền Nam,Dũng
+DH0115,2026-05-08,Bàn phím,Phụ kiện,5,753000,3765000,Hà Nội,Chi
+DH0069,2026-05-10,Tai nghe,Phụ kiện,2,883000,1766000,Miền Bắc,An
+DH0203,2026-05-10,Bàn phím,Phụ kiện,5,767000,3835000,Miền Trung,Dũng
+DH0040,2026-05-10,Ổ cứng SSD,Linh kiện,5,1614000,8070000,Miền Trung,Dũng
+DH0164,2026-05-10,Chuột,Phụ kiện,5,428000,2140000,Miền Trung,Chi
+DH0003,2026-05-11,Điện thoại,Điện tử,5,10204000,51020000,Miền Trung,An
+DH0231,2026-05-11,Chuột,Phụ kiện,5,440000,2200000,Miền Trung,Hà
+DH0123,2026-05-11,Laptop,Điện tử,1,19486000,19486000,Miền Nam,Dũng
+DH0074,2026-05-14,Laptop,Điện tử,2,19624000,39248000,Miền Bắc,Hà
+DH0118,2026-05-14,Webcam,Phụ kiện,2,1315000,2630000,Hà Nội,Hà
+DH0094,2026-05-16,Tai nghe,Phụ kiện,2,847000,1694000,Hà Nội,Hà
+DH0162,2026-05-16,Webcam,Phụ kiện,3,1247000,3741000,Hà Nội,Hà
+DH0208,2026-05-17,Webcam,Phụ kiện,5,1331000,6655000,Miền Bắc,Dũng
+DH0218,2026-05-17,Laptop,Điện tử,5,19607000,98035000,Miền Bắc,Chi
+DH0120,2026-05-18,Ổ cứng SSD,Linh kiện,3,1554000,4662000,Miền Bắc,Chi
+DH0200,2026-05-19,Màn hình,Điện tử,3,4332000,12996000,Miền Nam,Dũng
+DH0101,2026-05-19,Điện thoại,Điện tử,4,9878000,39512000,Miền Trung,Dũng
+DH0156,2026-05-20,Chuột,Phụ kiện,1,435000,435000,Hà Nội,Chi
+DH0079,2026-05-20,Màn hình,Điện tử,1,4254000,4254000,Miền Bắc,An
+DH0077,2026-05-21,Bàn phím,Phụ kiện,2,821000,1642000,Hà Nội,An
+DH0196,2026-05-21,Màn hình,Điện tử,3,4224000,12672000,Miền Nam,Dũng
+DH0153,2026-05-22,Điện thoại,Điện tử,4,10873000,43492000,Miền Nam,An
+DH0217,2026-05-23,Webcam,Phụ kiện,3,1317000,3951000,Miền Nam,Bình
+DH0239,2026-05-23,Điện thoại,Điện tử,2,9855000,19710000,Hà Nội,Hà
+DH0018,2026-05-24,Webcam,Phụ kiện,3,1220000,3660000,Miền Trung,Chi
+DH0017,2026-05-25,Bàn phím,Phụ kiện,5,726000,3630000,Miền Bắc,An
+DH0122,2026-05-26,Ổ cứng SSD,Linh kiện,2,1588000,3176000,Miền Trung,Bình
+DH0176,2026-05-26,Tai nghe,Phụ kiện,4,893000,3572000,Miền Trung,Dũng
+DH0184,2026-05-27,Màn hình,Điện tử,3,4040000,12120000,Miền Nam,An
+DH0133,2026-05-27,Ổ cứng SSD,Linh kiện,1,1588000,1588000,Miền Trung,Hà
+DH0109,2026-05-27,Điện thoại,Điện tử,5,9809000,49045000,Miền Trung,An
+DH0052,2026-05-27,Ổ cứng SSD,Linh kiện,2,1700000,3400000,Hà Nội,Dũng
+DH0171,2026-05-28,Điện thoại,Điện tử,2,10327000,20654000,Miền Nam,Bình
+DH0090,2026-06-02,Ổ cứng SSD,Linh kiện,3,1739000,5217000,Miền Trung,Hà
+DH0138,2026-06-02,Laptop,Điện tử,2,18240000,36480000,Hà Nội,An
+DH0225,2026-06-02,Tai nghe,Phụ kiện,3,889000,2667000,Miền Nam,Hà
+DH0191,2026-06-02,Laptop,Điện tử,4,19610000,78440000,Miền Bắc,Chi
+DH0240,2026-06-03,Điện thoại,Điện tử,1,10718000,10718000,Miền Trung,Dũng
+DH0097,2026-06-03,Webcam,Phụ kiện,5,1331000,6655000,Miền Bắc,Hà
+DH0001,2026-06-04,Điện thoại,Điện tử,1,10452000,10452000,Miền Trung,An
+DH0216,2026-06-04,Ổ cứng SSD,Linh kiện,2,1552000,3104000,Miền Nam,An
+DH0158,2026-06-05,Laptop,Điện tử,5,17469000,87345000,Hà Nội,Chi
+DH0163,2026-06-07,Màn hình,Điện tử,1,4455000,4455000,Miền Trung,An
+DH0144,2026-06-07,Màn hình,Điện tử,2,4432000,8864000,Miền Nam,Bình
+DH0010,2026-06-08,Ổ cứng SSD,Linh kiện,4,1675000,6700000,Hà Nội,Bình
+DH0059,2026-06-08,Màn hình,Điện tử,3,4359000,13077000,Miền Nam,Chi
+DH0235,2026-06-09,Ổ cứng SSD,Linh kiện,2,1703000,3406000,Hà Nội,Dũng
+DH0012,2026-06-12,Laptop,Điện tử,2,19008000,38016000,Miền Bắc,Bình
+DH0065,2026-06-12,Chuột,Phụ kiện,3,424000,1272000,Miền Bắc,An
+DH0232,2026-06-13,Ổ cứng SSD,Linh kiện,5,1607000,8035000,Miền Trung,Hà
+DH0089,2026-06-13,Chuột,Phụ kiện,1,401000,401000,Hà Nội,Hà
+DH0149,2026-06-14,Bàn phím,Phụ kiện,3,804000,2412000,Hà Nội,Hà
+DH0188,2026-06-14,Điện thoại,Điện tử,2,11118000,22236000,Miền Nam,Hà
+DH0044,2026-06-15,Tai nghe,Phụ kiện,2,860000,1720000,Miền Bắc,Bình
+DH0150,2026-06-15,Màn hình,Điện tử,5,4251000,21255000,Miền Bắc,Bình
+DH0198,2026-06-16,Laptop,Điện tử,1,18782000,18782000,Miền Bắc,Dũng
+DH0172,2026-06-17,Chuột,Phụ kiện,1,422000,422000,Hà Nội,Dũng
+DH0035,2026-06-19,Bàn phím,Phụ kiện,5,822000,4110000,Miền Trung,Dũng
+DH0098,2026-06-19,Chuột,Phụ kiện,5,444000,2220000,Miền Nam,An
+DH0070,2026-06-21,Webcam,Phụ kiện,5,1247000,6235000,Miền Trung,An
+DH0151,2026-06-21,Màn hình,Điện tử,3,4481000,13443000,Miền Nam,Bình
+DH0192,2026-06-22,Tai nghe,Phụ kiện,2,909000,1818000,Miền Trung,Hà
+DH0022,2026-06-23,Ổ cứng SSD,Linh kiện,5,1678000,8390000,Miền Bắc,An
+DH0108,2026-06-24,Ổ cứng SSD,Linh kiện,1,1741000,1741000,Hà Nội,Bình
+DH0004,2026-06-25,Màn hình,Điện tử,5,4280000,21400000,Miền Trung,Dũng
+DH0066,2026-06-26,Điện thoại,Điện tử,3,11069000,33207000,Miền Trung,An
+DH0015,2026-06-26,Bàn phím,Phụ kiện,3,766000,2298000,Miền Trung,Bình
+DH0226,2026-06-27,Điện thoại,Điện tử,1,10510000,10510000,Miền Trung,An
+DH0159,2026-06-27,Webcam,Phụ kiện,1,1312000,1312000,Miền Trung,Bình
+DH0223,2026-06-28,Bàn phím,Phụ kiện,3,831000,2493000,Miền Nam,Chi
+DH0139,2026-06-28,Chuột,Phụ kiện,5,447000,2235000,Hà Nội,Hà
+DH0195,2026-06-29,Laptop,Điện tử,2,18485000,36970000,Miền Bắc,Dũng
+DH0212,2026-06-29,Màn hình,Điện tử,2,4383000,8766000,Miền Bắc,Bình
+DH0129,2026-06-29,Bàn phím,Phụ kiện,1,831000,831000,Miền Trung,Bình
+DH0029,2026-06-29,Điện thoại,Điện tử,4,10962000,43848000,Miền Trung,Chi
+DH0228,2026-06-30,Tai nghe,Phụ kiện,4,836000,3344000,Miền Trung,Dũng
