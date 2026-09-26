@@ -93,11 +93,13 @@ Sau khi thực thi, chương trình in kết quả phân tích ra Terminal và l
 | Khu vực có doanh thu cao nhất | Miền Nam |
 | Nhân viên có doanh thu cao nhất | An |
 
-## 9. Video demo
+## 9. Video demo và minh chứng thực nghiệm
 
-Video demo trình bày quy trình thực hiện dự án gồm: giới thiệu repository, dữ liệu đầu vào, mã nguồn, chạy chương trình trên VS Code/Terminal và kiểm tra các biểu đồ kết quả.
+Video demo được sử dụng như một minh chứng thực nghiệm cho khả năng thực thi của dự án. Nội dung video trình bày repository, dữ liệu đầu vào, mã nguồn, quá trình chạy `sales_analysis.py` trên VS Code/Terminal và các kết quả trực quan được tạo ra sau khi chương trình hoàn tất.
 
-> **Video demo:** tệp video đã được hoàn thiện. Liên kết xem trực tuyến sẽ được bổ sung tại đây sau khi video được tải lên một nền tảng có URL truy cập ổn định (ví dụ Google Drive hoặc YouTube ở chế độ phù hợp).
+**[Xem video demo dự án trên YouTube](https://youtu.be/7p1GEF54Ic8)**
+
+Việc cung cấp video cùng với mã nguồn và dữ liệu giúp người đọc có thêm cơ sở đối chiếu giữa quy trình được mô tả trong báo cáo và quá trình thực thi thực tế.
 
 ## 10. Khả năng tái lập
 
